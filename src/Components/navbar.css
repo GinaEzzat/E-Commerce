@@ -1,0 +1,23 @@
+.navbar-nav{
+    margin-left: 500px;
+    display: flex;
+}
+.nav-link{
+    padding:0px 30px !important;
+}
+.Links{
+    display: flex;
+    justify-content: space-around !important;
+}
+.Vectors{
+    margin-left: 300px;
+    display: flex;
+    justify-content: space-around !important;
+}
+.vector{
+    padding:0px 15px !important;
+}
+.bg-light{
+    background-color: #FBEBB5 !important;
+    --bs-bg-opacity: 0 !important;
+}

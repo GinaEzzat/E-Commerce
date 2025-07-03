@@ -1,0 +1,24 @@
+.ourBlogs {
+    padding: 100px 50px;
+    text-align: center;
+}
+.headers h1{
+    font-size: 40px;
+}
+.headers p{
+    color: #9F9F9F;
+    font-size: larger;
+}
+.Blogs{
+    padding: 50px 0px;
+    display: flex;
+    justify-content: space-around;
+}
+.blogContainer{
+    display: block;
+}
+.blogContainer p{
+    padding-top: 30px;
+    font-size: 20px;
+    font-weight: 400;
+}

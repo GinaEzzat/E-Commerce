@@ -1,0 +1,18 @@
+.topPickes {
+    padding: 100px 50px;
+    text-align: center;
+}
+.topPickes h1{
+    font-size: 40px;
+}
+.topPickes p{
+    color: #9F9F9F;
+    font-size: larger;
+}
+.productsContainer{
+    display: flex;
+    flex: 1;
+}
+.text-lg{
+    font-size: x-large;
+}

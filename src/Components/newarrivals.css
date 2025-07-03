@@ -1,0 +1,17 @@
+.newArrivalsContainer{
+    background-color: #FFF9E5;
+    display: flex;
+}
+.orderNowContainer{
+    align-content: center;
+    padding-left: 100px;
+    text-align: center;
+    font-weight: bolder;
+}
+.orderNowContainer button{
+    margin-top: 20px;
+    padding: 10px 60px;
+    text-align: center;
+    background-color: transparent;
+    border: solid black 0.5px;
+}
