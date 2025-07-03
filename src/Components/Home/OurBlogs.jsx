@@ -1,9 +1,9 @@
 import React from 'react'
 import './ourblogs.css'
 import './sideTable.css'
-import blog1 from '../assets/Images/Rectangle 13 (1).png'
-import blog2 from '../assets/Images/Rectangle 14.png'
-import blog3 from "../assets/Images/Rectangle 15.png"
+import blog1 from '../../assets/Images/Rectangle 13 (1).png'
+import blog2 from '../../assets/Images/Rectangle 14.png'
+import blog3 from "../../assets/Images/Rectangle 15.png"
 import { useNavigate } from 'react-router-dom'
 const OurBlogs = () => {
     const navigate = useNavigate();

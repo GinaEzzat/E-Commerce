@@ -1,5 +1,5 @@
 import React from 'react'
-import asgaardSofa from '../assets/Images/Asgaard sofa 1.png'
+import asgaardSofa from '../../assets/Images/Asgaard sofa 1.png'
 import { useNavigate } from 'react-router-dom'
 import './newarrivals.css'
 const NewArrivals = () => {

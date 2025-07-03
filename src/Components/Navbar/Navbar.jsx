@@ -1,10 +1,10 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import './navbar.css'
-import account from '../assets/vectors/Vector3.png'
-import search from '../assets/vectors/Vector2.png'
-import favorite from '../assets/vectors/Vector1.png'
-import cart from '../assets/vectors/Vector.png'
+import account from '../../assets/vectors/Vector3.png'
+import search from '../../assets/vectors/Vector2.png'
+import favorite from '../../assets/vectors/Vector1.png'
+import cart from '../../assets/vectors/Vector.png'
 const Navbar = () => {
     return (
         <nav class="navbar navbar-expand-lg bg-light">
@@ -16,7 +16,7 @@ const Navbar = () => {
                                 <Link class="nav-link active" aria-current="page" to='/'>Home </Link>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Shop</a>
+                                <Link class="nav-link" to="/shop">Shop</Link>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#">About</a>

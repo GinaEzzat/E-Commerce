@@ -1,5 +1,5 @@
 import React from 'react'
-import background from '../assets/Images/Rectangle 17 (1).png'
+import background from '../../assets/Images/Rectangle 17 (1).png'
 const Instagram = () => {
   return (
     <div className='LinkContainer'>

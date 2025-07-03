@@ -1,0 +1,30 @@
+.shopHeader {
+    background-image: url("src/assets/Images/Rectangle1.png");
+    background-repeat: no-repeat;
+    background-size: 'cover';
+    background-position: 'center';
+    width: auto;
+    height: '100vh';
+    display: block;
+    text-align: center;
+}
+
+/* .headerInfo {
+    margin: 0px 900px;
+} */
+
+.pageReverse {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pageReverse img{
+    /* width: 10px; */
+    height: 10px;
+}
+.pageReverse button {
+    background-color: transparent;
+    border: 0px;
+    color: black;
+}

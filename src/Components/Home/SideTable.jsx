@@ -1,6 +1,6 @@
 import React from 'react'
-import table from '../assets/Images/Granite square side table 1.png'
-import sofa from '../assets/Images/Cloud sofa three seater + ottoman_3 1.png'
+import table from '../../assets/Images/Granite square side table 1.png'
+import sofa from '../../assets/Images/Cloud sofa three seater + ottoman_3 1.png'
 import './sideTable.css'
 import { useNavigate } from 'react-router-dom'
 const SideTable = () => {

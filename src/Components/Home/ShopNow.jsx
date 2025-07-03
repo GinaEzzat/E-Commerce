@@ -1,5 +1,5 @@
 import React from 'react'
-import rocketSEater from '../assets/Images/Rocket single seater 1.png'
+import rocketSEater from '../../assets/Images/Rocket single seater 1.png'
 import './shopnow.css'
 import { useNavigate } from 'react-router-dom'
 const ShopNow = () => {

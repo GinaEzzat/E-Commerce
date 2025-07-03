@@ -1,6 +1,6 @@
 import React from 'react'
 import './topPickes.css'
-import './sideTable.css'
+import '../Home/sideTable.css'
 import { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 
